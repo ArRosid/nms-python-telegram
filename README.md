@@ -27,7 +27,7 @@ To run this repository, you need some python library installed on your computer.
             <li>source venv/bin/activate</li>
             <li>pip install -r requirement</li>
         </ul>
-    <li>Edit script.py. Fill the <i>'your_token'</i> and <i>'your_chat_id'</i></li>
+    <li>Edit script.py. Fill the <i>'your_token'</i>, <i>'your_chat_id'</i>, and <i>your_server</i></li>
     <li>Run the python script and wait for the telegram notification</li>
         <ul>
             <li>sudo python2 script.py</li>

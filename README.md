@@ -32,4 +32,5 @@ To run this repository, you need some python library installed on your computer.
         <ul>
             <li>sudo python2 script.py</li>
         </ul>
+    <li>If you want to run this script automaticcally, you can check crontab and run.sh file</li>
 </ol>

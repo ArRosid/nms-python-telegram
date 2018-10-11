@@ -15,7 +15,7 @@ To run this repository, you need some python library installed on your computer.
 
 <h3>Setup</h3>
 <ol>
-    <li>Create Telegram bot, this telegram bot will used to notify us if the provisioning on Mikrotik completed. You can follow tutorial on https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0</li>
+    <li>Create Telegram bot, this telegram bot will used to notify us about the status of server. You can follow tutorial on https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0</li>
     <li>Clone this repository</li>
         <ul>
             <li>git clone https://github.com/arrosid/nms-python-telegram.git</li>

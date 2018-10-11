@@ -30,6 +30,6 @@ To run this repository, you need some python library installed on your computer.
     <li>Edit script.py. Fill the <i>'your_token'</i> and <i>'your_chat_id'</i></li>
     <li>Run the python script and wait for the telegram notification</li>
         <ul>
-            <li>python2 script.py</li>
+            <li>sudo python2 script.py</li>
         </ul>
 </ol>
